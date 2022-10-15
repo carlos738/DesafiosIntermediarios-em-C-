@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Documents\ProjetosVisualStudio\corrida-da-tartaruga\bin\Debug\netcoreapp3.1\corrida-da-tartaruga.exe
+C:\Users\LENOVO\Documents\ProjetosVisualStudio\corrida-da-tartaruga\bin\Debug\netcoreapp3.1\corrida-da-tartaruga.deps.json
+C:\Users\LENOVO\Documents\ProjetosVisualStudio\corrida-da-tartaruga\bin\Debug\netcoreapp3.1\corrida-da-tartaruga.runtimeconfig.json
+C:\Users\LENOVO\Documents\ProjetosVisualStudio\corrida-da-tartaruga\bin\Debug\netcoreapp3.1\corrida-da-tartaruga.runtimeconfig.dev.json
+C:\Users\LENOVO\Documents\ProjetosVisualStudio\corrida-da-tartaruga\bin\Debug\netcoreapp3.1\corrida-da-tartaruga.dll
+C:\Users\LENOVO\Documents\ProjetosVisualStudio\corrida-da-tartaruga\bin\Debug\netcoreapp3.1\corrida-da-tartaruga.pdb
+C:\Users\LENOVO\Documents\ProjetosVisualStudio\corrida-da-tartaruga\obj\Debug\netcoreapp3.1\corrida-da-tartaruga.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\ProjetosVisualStudio\corrida-da-tartaruga\obj\Debug\netcoreapp3.1\corrida-da-tartaruga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\ProjetosVisualStudio\corrida-da-tartaruga\obj\Debug\netcoreapp3.1\corrida-da-tartaruga.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\ProjetosVisualStudio\corrida-da-tartaruga\obj\Debug\netcoreapp3.1\corrida-da-tartaruga.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\ProjetosVisualStudio\corrida-da-tartaruga\obj\Debug\netcoreapp3.1\corrida-da-tartaruga.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\ProjetosVisualStudio\corrida-da-tartaruga\obj\Debug\netcoreapp3.1\corrida-da-tartaruga.dll
+C:\Users\LENOVO\Documents\ProjetosVisualStudio\corrida-da-tartaruga\obj\Debug\netcoreapp3.1\corrida-da-tartaruga.pdb
+C:\Users\LENOVO\Documents\ProjetosVisualStudio\corrida-da-tartaruga\obj\Debug\netcoreapp3.1\corrida-da-tartaruga.genruntimeconfig.cache
